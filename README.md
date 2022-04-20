@@ -1,5 +1,7 @@
 # Curso de ciencia de datos con Python
 
+<img src="./readme-assets/python.png" alt="readme-title" width="100%"/>
+
 ### ¿Que aremos a lo largo del curso?
 
 ### Preparativos
