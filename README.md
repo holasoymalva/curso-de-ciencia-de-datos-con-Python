@@ -4,11 +4,11 @@
 
 ### Preparativos
 
-#### Utilizando Python
-
 #### Preparacion de nuestro entorno local de trabajo
 
 #### Trabajando en un entorno sobre la nube.
+
+#### Fundamentos de Python
 
 ## Python Aplicado a la ciencia de datos
 
